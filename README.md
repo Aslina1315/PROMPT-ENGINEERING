@@ -104,6 +104,9 @@ Generative AI has transformed artificial intelligence, enabling machines to crea
 
 Generative AI (GenAI) analyzes vast amounts of data, looking for patterns and relationships, then uses these insights to create fresh, new content that mimics the original dataset. It does this by leveraging machine learning models, especially unsupervised and semi-supervised algorithms.So, what actually does the heavy lifting behind this capability? Neural networks. These networks, inspired by the human brain, ingest vast amounts of data through layers of interconnected nodes (neurons),which then process and decipher patterns in it. These insights can then be used to make predictions or decisions. With neural networks, we can create diverse content, from graphics and multimedia to text and even music. There are three popular techniques for implementing Generative AI: *Generative Adversarial Networks(GANs) *Variational Autoencoders (VAEs) *Transformers
 
+<img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/404b8084-a142-4239-8f23-330d216f6ff1" />
+
+
 **What are Generative Adversarial Networks? (GANs)**
 
 Generative Adversarial Networks (GANs) are a type of generative model that has two main components: a generator and a discriminator. The generator tries to produce data while the discriminator evaluates it. Let’s use the analogy of the Autobots and Decepticons in the Transformers franchise. Think of the Autobots as "Generators," trying to mimic and transform into any vehicle or animal on Earth. On the opposite side, the Decepticons play the role of "Discriminators," trying to identify which vehicles and animals are truly Autobots. As they engage, the Autobots fine-tune their outputs, motivated by the discerning eyes of the Decepticons. Their continuous struggle improves the generator's ability to create data so convincing that the discriminator can't tell the real from the fake.
@@ -118,9 +121,13 @@ The Transformer architecture introduced several groundbreaking innovations that 
 
 **Working of Transformer Architecture:**
 
-<img width="1198" height="607" alt="image" src="https://github.com/user-attachments/assets/ca859815-b47e-4c2a-8e7c-e83428c50a94" />
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/f0d93db1-44d6-46f1-ae21-cccd2461bfe7" />
+
 
 **3.Generative AI applications.**
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/fde1a206-345d-42b0-8689-bad85c7552fb" />
+
 **Video Applications**
 
 Video Generation OpenAI’s Sora attracted significant attention with its impressive video generation capabilities.2
@@ -153,7 +160,7 @@ Another application of generative AI is in software development owing to its cap
 Another use case of generative AI involves generating responses to user input in the form of natural language. This type is commonly used in chatbotsand virtual assistants, which are designed to provide information, answer questions, or perform tasks for users through conversational interfaces such as chat windows or voice assistants.
 
 **4.	Generative AI impact of scaling in LLMs.**
-
+<img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/2f359cdb-3334-4762-810f-49df9a53dc66" />
 
 In the rapidly evolving world of artificial intelligence, large language models (LLMs) have emerged as a game-changing force, revolutionizing the way we interact with technology and transforming countless industries. These powerful models can perform a vast array of tasks, from text generation and translation to question-answering and summarization.However, unlocking the full potential of these LLMs requires a deep understanding of how to effectively scale these LLMs, ensuring optimal performance and capabilities. In this blog post, we will delve into the crucial concept of scaling techniques for LLM models and explore why mastering this aspect is essential for anyone working in the AI domain.Asthe complexity and size of LLMs continue to grow, the importance of scaling cannot be overstated. It plays a pivotal role in improving a model’s performance, generalization, and capacity to learn from massive datasets. By scaling LLMs effectively, researchers and practitioners can unlock unprecedented levels of AI capabilities, paving the way for innovative applications and groundbreaking solutions.
 
